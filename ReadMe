@@ -1,0 +1,8 @@
+The Display has new pressed feature(pressed variable is made public so that it can be accessed as Display().pressed[py.K_SPACE].)
+It is in accordance with the issue 120 given in https://github.com/ingenuitas/SimpleCV/issues/120
+
+The line 96,153 are added whereas 632 and 642 are edited
+
+Hope it helps
+
+Thanks
